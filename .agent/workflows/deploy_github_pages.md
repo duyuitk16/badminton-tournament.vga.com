@@ -7,7 +7,7 @@ description: Deploy the application to GitHub Pages
 
     ```typescript
     export default defineConfig({
-      base: "/your-repo-name/", // <--- IMPORTANT: Change this to match your GitHub repo name
+      base: "/badminton-tournament.vga.com/", // MATCHES REPO NAME
       plugins: [react()],
       // ...
     });
